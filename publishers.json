@@ -1,0 +1,2322 @@
+[
+  {
+    "name": "12 Gauge",
+    "url": "https://www.comixology.com/12-Gauge/comics-publisher/672-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/112/logo/112_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/672-0/background/672-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "1First",
+    "url": "https://www.comixology.com/1First/comics-publisher/728-140",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/467/logo/467._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/728-140/background/728-140._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "1First",
+      "Devil's Due Entertainment"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "A Wave Blue World",
+    "url": "https://www.comixology.com/A-Wave-Blue-World/comics-publisher/76-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/18/logo/18_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/76-0/background/076_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#0084c5",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "AAM-Markosia",
+    "url": "https://www.comixology.com/AAM-Markosia/comics-publisher/54-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/47/logo/47_tile_img_full_0_1_2_3._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/54-0/background/054-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#176271",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Aardvark-Vanaheim",
+    "url": "https://www.comixology.com/Aardvark-Vanaheim/comics-publisher/103-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/78/logo/78_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/103-0/background/103-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Abrams – Abrams ComicArts",
+    "url": "https://www.comixology.com/Abrams-Abrams-ComicArts/comics-publisher/99-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/71/logo/71_tile_img_full_0_1_2._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/99-0/background/099-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Abrams – Amulet Books",
+    "url": "https://www.comixology.com/Abrams-Amulet-Books/comics-publisher/104-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/79/logo/79_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/104-0/background/104-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Abstract Studio",
+    "url": "https://www.comixology.com/Abstract-Studio/comics-publisher/96-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/66/logo/66_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/96-0/background/096-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Aces Weekly",
+    "url": "https://www.comixology.com/Aces-Weekly/comics-publisher/1569-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/165/logo/165_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1569-0/background/1569-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Action Lab",
+    "url": "https://www.comixology.com/Action-Lab/comics-publisher/123-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/82/logo/82_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/123-0/background/123-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#b4ddf3",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Action Lab",
+      "Action Lab - Danger Zone"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Action Lab - Danger Zone",
+    "url": "https://www.comixology.com/Action-Lab-Danger-Zone/comics-publisher/123-19",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/114/logo/114_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/123-19/background/123-19_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#060600",
+    "textColor": "#FFFFFF",
+    "imprints": [
+      "Action Lab",
+      "Action Lab - Danger Zone"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Aelement",
+    "url": "https://www.comixology.com/Aelement/comics-publisher/642-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/109/logo/109_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/642-0/background/642-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#c6010b",
+    "textColor": "#000000",
+    "imprints": [
+      "Aelement",
+      "Comixheroes Universe"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "AfterShock Comics",
+    "url": "https://www.comixology.com/AfterShock-Comics/comics-publisher/7816-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/461/logo/461._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/7816-0/background/7816-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Akileos",
+    "url": "https://www.comixology.com/Akileos/comics-publisher/550-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/111/logo/111_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/550-0/background/550-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#b92435",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Akileos",
+      "Akileos English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Akileos English",
+    "url": "https://www.comixology.com/Akileos-English/comics-publisher/550-131",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/441/logo/441._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/550-131/background/550-131._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#b92435",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Akileos",
+      "Akileos English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Akita Publishing Co.,Ltd.",
+    "url": "https://www.comixology.com/Akita-Publishing-Co-Ltd/comics-publisher/12568-195",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/642/logo/642._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-195/background/12568-195._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Albatross",
+    "url": "https://www.comixology.com/Albatross/comics-publisher/8752-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/484/logo/484._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8752-0/background/8752-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Alterna Comics",
+    "url": "https://www.comixology.com/Alterna-Comics/comics-publisher/22-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/19/logo/19._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/22-0/background/22-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Alterna Comics",
+      "Alterna Comics - FUBAR Press"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Alterna Comics - FUBAR Press",
+    "url": "https://www.comixology.com/Alterna-Comics-FUBAR-Press/comics-publisher/22-123",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/433/logo/433._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/22-123/background/22-123._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Alterna Comics",
+      "Alterna Comics - FUBAR Press"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Alternative Comics",
+    "url": "https://www.comixology.com/Alternative-Comics/comics-publisher/548-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/100/logo/100_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/548-0/background/548-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Amazon Studios",
+    "url": "https://www.comixology.com/Amazon-Studios/comics-publisher/12086-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/613/logo/613._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12086-0/background/12086-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#fe961c",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "American Mythology Productions",
+    "url": "https://www.comixology.com/American-Mythology-Productions/comics-publisher/8642-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/479/logo/479._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8642-0/background/8642-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Andrews McMeel",
+    "url": "https://www.comixology.com/Andrews-McMeel/comics-publisher/124-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/83/logo/83_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/124-0/background/124-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#006666",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Ankama",
+    "url": "https://www.comixology.com/Ankama/comics-publisher/549-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/101/logo/101_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/549-0/background/549-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#9c8e84",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Ankama",
+      "Ankama in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Ankama in English",
+    "url": "https://www.comixology.com/Ankama-in-English/comics-publisher/549-129",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/439/logo/439._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/549-129/background/549-129._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Ankama",
+      "Ankama in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Antarctic Press",
+    "url": "https://www.comixology.com/Antarctic-Press/comics-publisher/45-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/20/logo/20_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/45-0/background/045-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#090a0c",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Ape Entertainment",
+    "url": "https://www.comixology.com/Ape-Entertainment/comics-publisher/57-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/126/logo/126_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Arcana Comics",
+    "url": "https://www.comixology.com/Arcana-Comics/comics-publisher/42-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/16/logo/16_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/42-0/background/042-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#f9e598",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Archie",
+    "url": "https://www.comixology.com/Archie/comics-publisher/8-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/11/logo/11_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8-0/background/008-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [
+      "Archie",
+      "Archie - Archie Horror",
+      "Archie - Dark Circle Comics"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Archie - Archie Horror",
+    "url": "https://www.comixology.com/Archie-Archie-Horror/comics-publisher/8-21",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/123/logo/123_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8-21/background/008-21_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Archie",
+      "Archie - Archie Horror",
+      "Archie - Dark Circle Comics"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Archie - Dark Circle Comics",
+    "url": "https://www.comixology.com/Archie-Dark-Circle-Comics/comics-publisher/8-73",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/288/logo/288_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8-73/background/008-73_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Archie",
+      "Archie - Archie Horror",
+      "Archie - Dark Circle Comics"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Aspen Comics",
+    "url": "https://www.comixology.com/Aspen-Comics/comics-publisher/6-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/53/logo/53_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6-0/background/006-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#007cd1",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Aspen Comics",
+      "Big Dog Ink"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Asylum Press",
+    "url": "https://www.comixology.com/Asylum-Press/comics-publisher/66-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/21/logo/21_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/66-0/background/066-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Avatar",
+    "url": "https://www.comixology.com/Avatar/comics-publisher/11-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/127/logo/127_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/11-0/background/011-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Avatar",
+      "Boundless Comics"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Bamboo",
+    "url": "https://www.comixology.com/Bamboo/comics-publisher/8915-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/514/logo/514._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8915-0/background/8915-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#00a15b",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Beaglee Inc.",
+    "url": "https://www.comixology.com/Beaglee-Inc/comics-publisher/12568-199",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/644/logo/644._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-199/background/12568-199._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Big Dog Ink",
+    "url": "https://www.comixology.com/Big-Dog-Ink/comics-publisher/6-100",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/334/logo/334_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6-100/background/006-100_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Aspen Comics",
+      "Big Dog Ink"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Black Crown",
+    "url": "https://www.comixology.com/Black-Crown/comics-publisher/12-181",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/615/logo/615._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12-181/background/12-181._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Black Crown",
+      "Disney",
+      "IDW",
+      "Top Shelf Productions"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Black Mask Studios",
+    "url": "https://www.comixology.com/Black-Mask-Studios/comics-publisher/6571-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/411/logo/411_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6571-0/background/6571-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#efefef",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Blind Ferret",
+    "url": "https://www.comixology.com/Blind-Ferret/comics-publisher/385-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/89/logo/89_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/385-0/background/385-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Bliss On Tap",
+    "url": "https://www.comixology.com/Bliss-On-Tap/comics-publisher/5356-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/346/logo/346_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5356-0/background/5356-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#020202",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "BOOM! - Archaia",
+    "url": "https://www.comixology.com/BOOM-Archaia/comics-publisher/18-51",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/246/logo/246_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/18-51/background/018-51_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "BOOM! - Archaia",
+      "BOOM! - BOOM! Box",
+      "BOOM! - KaBOOM!",
+      "BOOM! Studios"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "BOOM! - BOOM! Box",
+    "url": "https://www.comixology.com/BOOM-BOOM-Box/comics-publisher/18-56",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/266/logo/266_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/18-56/background/018-56_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#e4d385",
+    "textColor": "#566d37",
+    "imprints": [
+      "BOOM! - Archaia",
+      "BOOM! - BOOM! Box",
+      "BOOM! - KaBOOM!",
+      "BOOM! Studios"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "BOOM! - KaBOOM!",
+    "url": "https://www.comixology.com/BOOM-KaBOOM/comics-publisher/18-61",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/261/logo/261_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/18-61/background/018-61_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#279FBA",
+    "textColor": "#ffffff",
+    "imprints": [
+      "BOOM! - Archaia",
+      "BOOM! - BOOM! Box",
+      "BOOM! - KaBOOM!",
+      "BOOM! Studios"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "BOOM! Studios",
+    "url": "https://www.comixology.com/BOOM-Studios/comics-publisher/18-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/10/logo/10_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/18-0/background/018-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "BOOM! - Archaia",
+      "BOOM! - BOOM! Box",
+      "BOOM! - KaBOOM!",
+      "BOOM! Studios"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Boundless Comics",
+    "url": "https://www.comixology.com/Boundless-Comics/comics-publisher/11-71",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/286/logo/286_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/11-71/background/011-71_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Avatar",
+      "Boundless Comics"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Çà et Là",
+    "url": "https://www.comixology.com/�_à-et-Là/comics-publisher/500-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/99/logo/99_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/500-0/background/500-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#961f01",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Caliber Comics",
+    "url": "https://www.comixology.com/Caliber-Comics/comics-publisher/1342-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/200/logo/200_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1342-0/background/1342-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Cartoon Books",
+    "url": "https://www.comixology.com/Cartoon-Books/comics-publisher/86-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/56/logo/56_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/86-0/background/086-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#110c26",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "ChapterHouse Comics",
+    "url": "https://www.comixology.com/ChapterHouse-Comics/comics-publisher/5761-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/596/logo/596._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5761-0/background/5761-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#ed1c24",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "ChiZine Publications",
+    "url": "https://www.comixology.com/ChiZine-Publications/comics-publisher/6974-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/424/logo/424._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6974-0/background/6974-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#0a0a08",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Cinebook",
+    "url": "https://www.comixology.com/Cinebook/comics-publisher/8925-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/523/logo/523._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8925-0/background/8925-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Classics Illustrated",
+    "url": "https://www.comixology.com/Classics-Illustrated/comics-publisher/809-23",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/129/logo/129_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/809-23/background/809-23_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Com.x",
+    "url": "https://www.comixology.com/Com-x/comics-publisher/63-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/23/logo/23_tile_img_full_0_1_2._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/63-0/background/063-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#c10303",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Comixheroes Universe",
+    "url": "https://www.comixology.com/Comixheroes-Universe/comics-publisher/642-18",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/110/logo/110_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/642-18/background/642-18_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#",
+    "textColor": "#",
+    "imprints": [
+      "Aelement",
+      "Comixheroes Universe"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "ComixTribe",
+    "url": "https://www.comixology.com/ComixTribe/comics-publisher/372-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/122/logo/122_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/372-0/background/372-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Creative Impulse",
+    "url": "https://www.comixology.com/Creative-Impulse/comics-publisher/73-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/33/logo/33_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/73-0/background/073-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Creator Owned",
+    "url": "https://www.comixology.com/Creator-Owned/comics-publisher/70-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/31/logo/31_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/70-0/background/070-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#d6e1b7",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Cryptozoic Entertainment",
+    "url": "https://www.comixology.com/Cryptozoic-Entertainment/comics-publisher/95-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/65/logo/65_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/95-0/background/095-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Darby Pop",
+    "url": "https://www.comixology.com/Darby-Pop/comics-publisher/12050-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/605/logo/605._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12050-0/background/12050-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#18d9d8",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Dargaud",
+    "url": "https://www.comixology.com/Dargaud/comics-publisher/8900-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/505/logo/505._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8900-0/background/8900-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#3d607c",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Dark Horse",
+    "url": "https://www.comixology.com/Dark-Horse/comics-publisher/3-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/32/logo/32_tile_img_full_0_1_2_3_4_5._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/3-0/background/003-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#020307",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "DC",
+    "url": "https://www.comixology.com/DC/comics-publisher/1-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/58/logo/58._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1-0/background/1-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [
+      "DC",
+      "MAD",
+      "Vertigo"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "DC Thomson",
+    "url": "https://www.comixology.com/DC-Thomson/comics-publisher/3302-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/278/logo/278_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/3302-0/background/3302-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Delcourt",
+    "url": "https://www.comixology.com/Delcourt/comics-publisher/126-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/88/logo/88_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/126-0/background/126-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ed2224",
+    "textColor": "#000000",
+    "imprints": [
+      "Delcourt",
+      "Delcourt in English",
+      "Soleil",
+      "Soleil in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Delcourt in English",
+    "url": "https://www.comixology.com/Delcourt-in-English/comics-publisher/126-120",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/400/logo/400_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/126-120/background/126-120_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Delcourt",
+      "Delcourt in English",
+      "Soleil",
+      "Soleil in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Devil's Due Entertainment",
+    "url": "https://www.comixology.com/Devils-Due-Entertainment/comics-publisher/728-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/118/logo/118._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/728-0/background/728-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "1First",
+      "Devil's Due Entertainment"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Digital Webbing",
+    "url": "https://www.comixology.com/Digital-Webbing/comics-publisher/28-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/36/logo/36_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/28-0/background/028-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Disney",
+    "url": "https://www.comixology.com/Disney/comics-publisher/12-171",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/574/logo/574._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12-171/background/12-171._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Black Crown",
+      "Disney",
+      "IDW",
+      "Top Shelf Productions"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Disney",
+    "url": "https://www.comixology.com/Disney/comics-publisher/122-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/81/logo/81_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/122-0/background/122-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "DMP",
+    "url": "https://www.comixology.com/DMP/comics-publisher/31-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/55/logo/55_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/31-0/background/031-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#6b4a99",
+    "imprints": [
+      "DMP",
+      "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Dover",
+    "url": "https://www.comixology.com/Dover/comics-publisher/7772-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/447/logo/447._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/7772-0/background/7772-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Drawn and Quarterly",
+    "url": "https://www.comixology.com/Drawn-and-Quarterly/comics-publisher/64-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/389/logo/389_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/64-0/background/064-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#bbe1ca",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Dupuis",
+    "url": "https://www.comixology.com/Dupuis/comics-publisher/8904-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/627/logo/627._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8904-0/background/8904-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Dynamite",
+    "url": "https://www.comixology.com/Dynamite/comics-publisher/5-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/34/logo/34._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5-0/background/005-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Eco Comics",
+    "url": "https://www.comixology.com/Eco-Comics/comics-publisher/1141-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/161/logo/161_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1141-0/background/1141-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Editions Brume",
+    "url": "https://www.comixology.com/Editions-Brume/comics-publisher/1650-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/185/logo/185_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1650-0/background/1650-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#84a094",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Editions Reflexions",
+    "url": "https://www.comixology.com/Editions-Reflexions/comics-publisher/1804-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/189/logo/189_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1804-0/background/1804-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#88482f",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Europe Comics",
+    "url": "https://www.comixology.com/Europe-Comics/comics-publisher/9205-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/520/logo/520._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/9205-0/background/9205-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Evil Twin Comics",
+    "url": "https://www.comixology.com/Evil-Twin-Comics/comics-publisher/55-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/37/logo/37_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/55-0/background/055-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#f7c405",
+    "textColor": "#7d131b",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Fantagraphics",
+    "url": "https://www.comixology.com/Fantagraphics/comics-publisher/53-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/74/logo/74_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/53-0/background/053-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#881f22",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Galaxie Comics",
+    "url": "https://www.comixology.com/Galaxie-Comics/comics-publisher/1052-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/147/logo/147_tile_img_full_0_1_2._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1052-0/background/1052-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#4b6570",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "GEN Manga",
+    "url": "https://www.comixology.com/GEN-Manga/comics-publisher/6029-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/383/logo/383_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6029-0/background/6029-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#a472b1",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "GG Studio",
+    "url": "https://www.comixology.com/GG-Studio/comics-publisher/1449-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/164/logo/164_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1449-0/background/1449-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#333333",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Glénat",
+    "url": "https://www.comixology.com/Glénat/comics-publisher/574-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/106/logo/106_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/574-0/background/574-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Glénat",
+      "Glénat in English",
+      "Vents d'Ouest"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Glénat in English",
+    "url": "https://www.comixology.com/Glénat-in-English/comics-publisher/574-126",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/436/logo/436._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/574-126/background/574-126._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Glénat",
+      "Glénat in English",
+      "Vents d'Ouest"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Graphic India",
+    "url": "https://www.comixology.com/Graphic-India/comics-publisher/5452-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/364/logo/364_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5452-0/background/5452-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#4d4d4d",
+    "textColor": "#dfdfdf",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "GT Labs",
+    "url": "https://www.comixology.com/GT-Labs/comics-publisher/100-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/75/logo/75_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/100-0/background/100-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Harlequin Comics en Français",
+    "url": "https://www.comixology.com/Harlequin-Comics-en-Français/comics-publisher/127-136",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/456/logo/456._SX312_QL80_TTD_.jpg",
+    "banner": "",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Harlequin Comics en Français",
+      "Harlequin/ SB Creative Corp."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Harlequin/ SB Creative Corp.",
+    "url": "https://www.comixology.com/Harlequin-SB-Creative-Corp/comics-publisher/127-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/85/logo/85_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/127-0/background/127-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#e7a0a6",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Harlequin Comics en Français",
+      "Harlequin/ SB Creative Corp."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "HarperCollins",
+    "url": "https://www.comixology.com/HarperCollins/comics-publisher/129-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/87/logo/87._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/129-0/background/129-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#007cc2",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Harvey Kurtzman's Marley's Ghost",
+    "url": "https://www.comixology.com/Harvey-Kurtzmans-Marleys-Ghost/comics-publisher/9794-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/530/logo/530._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/9794-0/background/9794-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Heavy Metal",
+    "url": "https://www.comixology.com/Heavy-Metal/comics-publisher/7946-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/466/logo/466._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/7946-0/background/7946-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Hermes Press",
+    "url": "https://www.comixology.com/Hermes-Press/comics-publisher/97-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/67/logo/67_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/97-0/background/097-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Heroic Publishing",
+    "url": "https://www.comixology.com/Heroic-Publishing/comics-publisher/799-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/226/logo/226_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/799-0/background/799-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#84b0d2",
+    "textColor": "#25365b",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Hexagon Comics",
+    "url": "https://www.comixology.com/Hexagon-Comics/comics-publisher/803-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/124/logo/124_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/803-0/background/803-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#6b3632",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Houghton Mifflin Harcourt",
+    "url": "https://www.comixology.com/Houghton-Mifflin-Harcourt/comics-publisher/5488-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/370/logo/370_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5488-0/background/5488-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Humanoids",
+    "url": "https://www.comixology.com/Humanoids/comics-publisher/4483-78",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/298/logo/298_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4483-78/background/4483-78_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Humanoids",
+      "Les Humanoïdes Associés"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "I CAN FLY",
+    "url": "https://www.comixology.com/I-CAN-FLY/comics-publisher/598-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/104/logo/104_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/598-0/background/598-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#70d0fa",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Icon",
+    "url": "https://www.comixology.com/Icon/comics-publisher/82-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/35/logo/35_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/82-0/background/082-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "IDW",
+    "url": "https://www.comixology.com/IDW/comics-publisher/12-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/62/logo/62_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12-0/background/12-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#147e8f",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Black Crown",
+      "Disney",
+      "IDW",
+      "Top Shelf Productions"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image",
+    "url": "https://www.comixology.com/Image/comics-publisher/4-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/25/logo/25._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-0/background/4-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image - Shadowline",
+    "url": "https://www.comixology.com/Image-Shadowline/comics-publisher/4-6",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/28/logo/28_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-6/background/004-06_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image - Silverline",
+    "url": "https://www.comixology.com/Image-Silverline/comics-publisher/4-10",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/54/logo/54_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-10/background/004-10_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#5d0400",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image - Skybound",
+    "url": "https://www.comixology.com/Image-Skybound/comics-publisher/4-7",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/27/logo/27._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-7/background/4-7._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#29378f",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image - Todd McFarlane Productions",
+    "url": "https://www.comixology.com/Image-Todd-McFarlane-Productions/comics-publisher/4-17",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/108/logo/108_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-17/background/004-17_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#bd2124",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Image - Top Cow",
+    "url": "https://www.comixology.com/Image-Top-Cow/comics-publisher/4-8",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/26/logo/26_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4-8/background/040_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#333333",
+    "imprints": [
+      "Image",
+      "Image - Shadowline",
+      "Image - Silverline",
+      "Image - Skybound",
+      "Image - Todd McFarlane Productions",
+      "Image - Top Cow"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Indeez",
+    "url": "https://www.comixology.com/Indeez/comics-publisher/503-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/95/logo/95_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/503-0/background/503-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Ishimori",
+    "url": "https://www.comixology.com/Ishimori/comics-publisher/101-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/76/logo/76_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/101-0/background/101-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Jet City",
+    "url": "https://www.comixology.com/Jet-City/comics-publisher/2420-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/205/logo/205_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2420-0/background/2420-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Jitsugyo no Nihon Sha, Ltd.",
+    "url": "https://www.comixology.com/Jitsugyo-no-Nihon-Sha-Ltd/comics-publisher/12568-209",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/649/logo/649._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-209/background/12568-209._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Joe Books",
+    "url": "https://www.comixology.com/Joe-Books/comics-publisher/10730-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/593/logo/593._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/10730-0/background/10730-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#07549c",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kana",
+    "url": "https://www.comixology.com/Kana/comics-publisher/8909-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/509/logo/509._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8909-0/background/8909-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#fefb7a",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kazé",
+    "url": "https://www.comixology.com/Kazé/comics-publisher/780-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/120/logo/120_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/780-0/background/780-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "keenspot",
+    "url": "https://www.comixology.com/keenspot/comics-publisher/78-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/46/logo/46_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/78-0/background/078-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kickstart",
+    "url": "https://www.comixology.com/Kickstart/comics-publisher/84-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/49/logo/49_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/84-0/background/084-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#c13329",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kid Beowulf",
+    "url": "https://www.comixology.com/Kid-Beowulf/comics-publisher/392-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/93/logo/93_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/392-0/background/392-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#f9ee30",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kids Can Press",
+    "url": "https://www.comixology.com/Kids-Can-Press/comics-publisher/5848-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/376/logo/376_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5848-0/background/5848-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kingstone Comics",
+    "url": "https://www.comixology.com/Kingstone-Comics/comics-publisher/643-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/113/logo/113_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/643-0/background/643-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kodansha",
+    "url": "https://www.comixology.com/Kodansha/comics-publisher/6670-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/412/logo/412._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6670-0/background/6670-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Kotoji Editions",
+    "url": "https://www.comixology.com/Kotoji-Editions/comics-publisher/4860-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/330/logo/330_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4860-0/background/4860-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Koyama Press",
+    "url": "https://www.comixology.com/Koyama-Press/comics-publisher/9776-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/529/logo/529._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/9776-0/background/9776-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#eb332f",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "La Découverte",
+    "url": "https://www.comixology.com/La-Découverte/comics-publisher/12994-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/659/logo/659._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12994-0/background/12994-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Le Lombard",
+    "url": "https://www.comixology.com/Le-Lombard/comics-publisher/8905-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/502/logo/502._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8905-0/background/8905-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#0b0205",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Legendary",
+    "url": "https://www.comixology.com/Legendary/comics-publisher/102-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/77/logo/77_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/102-0/background/102-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#15160e",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Les Humanoïdes Associés",
+    "url": "https://www.comixology.com/Les-Humanoïdes-Associés/comics-publisher/4483-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/293/logo/293_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/4483-0/background/4483-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#0c3e59",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Humanoids",
+      "Les Humanoïdes Associés"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Lion Forge Comics",
+    "url": "https://www.comixology.com/Lion-Forge-Comics/comics-publisher/659-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/409/logo/409_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/659-0/background/659-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Lion Forge Comics",
+      "MAGNETIC COLLECTION (at Lion Forge)"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Liquid Comics",
+    "url": "https://www.comixology.com/Liquid-Comics/comics-publisher/5350-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/340/logo/340_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/5350-0/background/5350-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#0291d5",
+    "textColor": "#fbfaf8",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Los Brignolès",
+    "url": "https://www.comixology.com/Los-Brignolès/comics-publisher/516-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/97/logo/97_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/516-0/background/516-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#9b9b9b",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Love Pop",
+    "url": "https://www.comixology.com/Love-Pop/comics-publisher/12568-214",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/654/logo/654._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-214/background/12568-214._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAD",
+    "url": "https://www.comixology.com/MAD/comics-publisher/1-34",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/219/logo/219._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1-34/background/001-34_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [
+      "DC",
+      "MAD",
+      "Vertigo"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAGNETIC COLLECTION (at Lion Forge)",
+    "url": "https://www.comixology.com/MAGNETIC-COLLECTION-at-Lion-Forge/comics-publisher/659-178",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/600/logo/600._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/659-178/background/659-178._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Lion Forge Comics",
+      "MAGNETIC COLLECTION (at Lion Forge)"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Makma",
+    "url": "https://www.comixology.com/Makma/comics-publisher/8590-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/475/logo/475._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8590-0/background/8590-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Marvel",
+    "url": "https://www.comixology.com/Marvel/comics-publisher/2-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2-0/background/002-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080c14",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Marvel",
+      "Marvel - comiXology Originals",
+      "Marvel Deutschland",
+      "Marvel France",
+      "Marvel Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Marvel - comiXology Originals",
+    "url": "https://www.comixology.com/Marvel-comiXology-Originals/comics-publisher/2-185",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/617/logo/617._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2-185/background/2-185._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080c14",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Marvel",
+      "Marvel - comiXology Originals",
+      "Marvel Deutschland",
+      "Marvel France",
+      "Marvel Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Marvel Deutschland",
+    "url": "https://www.comixology.com/Marvel-Deutschland/comics-publisher/2-158",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/542/logo/542._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2-158/background/2-158._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080c14",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Marvel",
+      "Marvel - comiXology Originals",
+      "Marvel Deutschland",
+      "Marvel France",
+      "Marvel Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Marvel France",
+    "url": "https://www.comixology.com/Marvel-France/comics-publisher/2-155",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/545/logo/545._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2-155/background/2-155._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080c14",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Marvel",
+      "Marvel - comiXology Originals",
+      "Marvel Deutschland",
+      "Marvel France",
+      "Marvel Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Marvel Italia",
+    "url": "https://www.comixology.com/Marvel-Italia/comics-publisher/2-160",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/550/logo/550._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2-160/background/2-160._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080c14",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Marvel",
+      "Marvel - comiXology Originals",
+      "Marvel Deutschland",
+      "Marvel France",
+      "Marvel Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAX",
+    "url": "https://www.comixology.com/MAX/comics-publisher/128-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/86/logo/86_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/128-0/background/128-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#d7af7b",
+    "imprints": [
+      "MAX",
+      "MAX Deutschland",
+      "MAX France",
+      "MAX Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAX Deutschland",
+    "url": "https://www.comixology.com/MAX-Deutschland/comics-publisher/128-162",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/552/logo/552._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/128-162/background/128-162._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "MAX",
+      "MAX Deutschland",
+      "MAX France",
+      "MAX Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAX France",
+    "url": "https://www.comixology.com/MAX-France/comics-publisher/128-161",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/557/logo/557._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/128-161/background/128-161._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "MAX",
+      "MAX Deutschland",
+      "MAX France",
+      "MAX Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "MAX Italia",
+    "url": "https://www.comixology.com/MAX-Italia/comics-publisher/128-167",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/560/logo/560._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/128-167/background/128-167._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "MAX",
+      "MAX Deutschland",
+      "MAX France",
+      "MAX Italia"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Media Do",
+    "url": "https://www.comixology.com/Media-Do/comics-publisher/12568-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/625/logo/625._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-0/background/12568-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "minato-pro,Mz-plan",
+    "url": "https://www.comixology.com/minato-pro-Mz-plan/comics-publisher/12568-219",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/657/logo/657._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-219/background/12568-219._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Monkeybrain",
+    "url": "https://www.comixology.com/Monkeybrain/comics-publisher/93-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/73/logo/73_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/93-0/background/093-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Monsterverse",
+    "url": "https://www.comixology.com/Monsterverse/comics-publisher/388-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/91/logo/91_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/388-0/background/388-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Moonstone",
+    "url": "https://www.comixology.com/Moonstone/comics-publisher/26-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/48/logo/48_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/26-0/background/026-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Mutation Narrative",
+    "url": "https://www.comixology.com/Mutation-Narrative/comics-publisher/1086-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/156/logo/156_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1086-0/background/1086-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "NBM",
+    "url": "https://www.comixology.com/NBM/comics-publisher/85-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/39/logo/39._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/85-0/background/85-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#cbd1cf",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "NIHONBUNGEISHA Co.,Ltd.",
+    "url": "https://www.comixology.com/NIHONBUNGEISHA-Co-Ltd/comics-publisher/12568-193",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/640/logo/640._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12568-193/background/12568-193._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [
+      "Akita Publishing Co.,Ltd.",
+      "Beaglee Inc.",
+      "Jitsugyo no Nihon Sha, Ltd.",
+      "Love Pop",
+      "Media Do",
+      "minato-pro,Mz-plan",
+      "NIHONBUNGEISHA Co.,Ltd."
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Oni Press",
+    "url": "https://www.comixology.com/Oni-Press/comics-publisher/9-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/13/logo/13_tile_img_full_0_1_2._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/9-0/background/009-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#e21a22",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Panini Comics Deutschland",
+    "url": "https://www.comixology.com/Panini-Comics-Deutschland/comics-publisher/515-36",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/241/logo/241_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/515-36/background/515-36_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#fef200",
+    "textColor": "#000000",
+    "imprints": [
+      "Panini Comics Deutschland",
+      "Panini Comics France"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Panini Comics France",
+    "url": "https://www.comixology.com/Panini-Comics-France/comics-publisher/515-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/96/logo/96_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/515-0/background/515-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#fef200",
+    "textColor": "#000000",
+    "imprints": [
+      "Panini Comics Deutschland",
+      "Panini Comics France"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Paper Films",
+    "url": "https://www.comixology.com/Paper-Films/comics-publisher/2047-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/197/logo/197_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2047-0/background/2047-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Papercutz",
+    "url": "https://www.comixology.com/Papercutz/comics-publisher/88-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/57/logo/57_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/88-0/background/088-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#068748",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka",
+    "url": "https://www.comixology.com/Platinum-Manga-By-DMP-Classic-Manga-Works-by-Osamu-Tezuka/comics-publisher/31-124",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/434/logo/434._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/31-124/background/31-124._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#608cc9",
+    "textColor": "#000000",
+    "imprints": [
+      "DMP",
+      "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "R-Comics",
+    "url": "https://www.comixology.com/R-Comics/comics-publisher/434-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/92/logo/92_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/434-0/background/434-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#122454",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Radical Comics",
+    "url": "https://www.comixology.com/Radical-Comics/comics-publisher/46-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/42/logo/42_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/46-0/background/046-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#203130",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Rainbow",
+    "url": "https://www.comixology.com/Rainbow/comics-publisher/6849-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/414/logo/414._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6849-0/background/6849-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#d692b8",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Raw Studios",
+    "url": "https://www.comixology.com/Raw-Studios/comics-publisher/98-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/70/logo/70_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/98-0/background/098-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Red 5",
+    "url": "https://www.comixology.com/Red-5/comics-publisher/7-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/38/logo/38._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/7-0/background/7-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#5d5d5d",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Rue de Sèvres",
+    "url": "https://www.comixology.com/Rue-de-Sèvres/comics-publisher/8919-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/519/logo/519._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8919-0/background/8919-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Sandawe",
+    "url": "https://www.comixology.com/Sandawe/comics-publisher/551-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/105/logo/105_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/551-0/background/551-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Scholastic - Graphix",
+    "url": "https://www.comixology.com/Scholastic-Graphix/comics-publisher/705-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/117/logo/117_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/705-0/background/705-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#8ca3d5",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Scholastic - Graphix",
+      "The Phoenix"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Seven Seas",
+    "url": "https://www.comixology.com/Seven-Seas/comics-publisher/39-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/115/logo/115_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/39-0/background/039-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "SLG",
+    "url": "https://www.comixology.com/SLG/comics-publisher/13-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/50/logo/50_tile_img_full_0_1._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/13-0/background/013-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#82a582",
+    "textColor": "#123312",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Small Press",
+    "url": "https://www.comixology.com/Small-Press/comics-publisher/89-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/59/logo/59_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/89-0/background/089-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Soleil",
+    "url": "https://www.comixology.com/Soleil/comics-publisher/126-27",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/90/logo/90_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/126-27/background/384-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#f3b000",
+    "textColor": "#000000",
+    "imprints": [
+      "Delcourt",
+      "Delcourt in English",
+      "Soleil",
+      "Soleil in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Soleil in English",
+    "url": "https://www.comixology.com/Soleil-in-English/comics-publisher/126-144",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/490/logo/490._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/126-144/background/126-144._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Delcourt",
+      "Delcourt in English",
+      "Soleil",
+      "Soleil in English"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Space Goat Productions",
+    "url": "https://www.comixology.com/Space-Goat-Productions/comics-publisher/3357-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Publisher/3357/a234d6f595d6ffd4e9c65137980dc228._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/3357-0/background/3357-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Spunch Comics",
+    "url": "https://www.comixology.com/Spunch-Comics/comics-publisher/2926-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/236/logo/236_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2926-0/background/2926-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffcc33",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Studio 407",
+    "url": "https://www.comixology.com/Studio-407/comics-publisher/60-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/43/logo/43_tile_img_full_0._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/60-0/background/060-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#a1181f",
+    "textColor": "#cececf",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Studio Lounak",
+    "url": "https://www.comixology.com/Studio-Lounak/comics-publisher/8524-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/469/logo/469._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/8524-0/background/8524-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#080808",
+    "textColor": "#dcdcdc",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Teshkeel",
+    "url": "https://www.comixology.com/Teshkeel/comics-publisher/90-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/63/logo/63_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/90-0/background/090-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Th3rd World Studios",
+    "url": "https://www.comixology.com/Th3rd-World-Studios/comics-publisher/71-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/14/logo/14_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/71-0/background/071-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#092344",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "The Phoenix",
+    "url": "https://www.comixology.com/The-Phoenix/comics-publisher/705-191",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/620/logo/620._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/705-191/background/705-191._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#5c5992",
+    "textColor": "#fee417",
+    "imprints": [
+      "Scholastic - Graphix",
+      "The Phoenix"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Thrillbent",
+    "url": "https://www.comixology.com/Thrillbent/comics-publisher/125-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/84/logo/84_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/125-0/background/125-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "TidalWave Productions",
+    "url": "https://www.comixology.com/TidalWave-Productions/comics-publisher/6878-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/418/logo/418._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/6878-0/background/6878-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#626dab",
+    "textColor": "#23376c",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Titan",
+    "url": "https://www.comixology.com/Titan/comics-publisher/92-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/68/logo/68_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/92-0/background/092-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "TOKYOPOP",
+    "url": "https://www.comixology.com/TOKYOPOP/comics-publisher/14-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/41/logo/41_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/14-0/background/014_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#b31d0e",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Top Shelf Productions",
+    "url": "https://www.comixology.com/Top-Shelf-Productions/comics-publisher/12-118",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/382/logo/382_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/12-118/background/012-118_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#1b3b50",
+    "textColor": "#000000",
+    "imprints": [
+      "Black Crown",
+      "Disney",
+      "IDW",
+      "Top Shelf Productions"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Udon",
+    "url": "https://www.comixology.com/Udon/comics-publisher/48-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/107/logo/107_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/48-0/background/048-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Valiant",
+    "url": "https://www.comixology.com/Valiant/comics-publisher/94-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/69/logo/69_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/94-0/background/094-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Valiant",
+      "Valiant Classic",
+      "Valiant Digital Firsts"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Valiant Classic",
+    "url": "https://www.comixology.com/Valiant-Classic/comics-publisher/94-64",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/273/logo/273._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/94-64/background/094-64_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [
+      "Valiant",
+      "Valiant Classic",
+      "Valiant Digital Firsts"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Valiant Digital Firsts",
+    "url": "https://www.comixology.com/Valiant-Digital-Firsts/comics-publisher/94-173",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/587/logo/587._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/94-173/background/94-173._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "imprints": [
+      "Valiant",
+      "Valiant Classic",
+      "Valiant Digital Firsts"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Valve",
+    "url": "https://www.comixology.com/Valve/comics-publisher/83-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/51/logo/51_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/83-0/background/083_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Vault Comics",
+    "url": "https://www.comixology.com/Vault-Comics/comics-publisher/10738-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/584/logo/584._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/10738-0/background/10738-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Vents d'Ouest",
+    "url": "https://www.comixology.com/Vents-dOuest/comics-publisher/574-20",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/119/logo/119_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/574-20/background/574-20_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#e6dbc7",
+    "textColor": "#000000",
+    "imprints": [
+      "Glénat",
+      "Glénat in English",
+      "Vents d'Ouest"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Vertigo",
+    "url": "https://www.comixology.com/Vertigo/comics-publisher/1-3",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/8/logo/8._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1-3/background/001-03_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [
+      "DC",
+      "MAD",
+      "Vertigo"
+    ],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Viper Comics",
+    "url": "https://www.comixology.com/Viper-Comics/comics-publisher/38-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/40/logo/40_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/38-0/background/038-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#333333",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Virtual Graphics",
+    "url": "https://www.comixology.com/Virtual-Graphics/comics-publisher/562-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/102/logo/102_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/562-0/background/562-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#8c93d7",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Viz",
+    "url": "https://www.comixology.com/Viz/comics-publisher/17-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/210/logo/210_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/17-0/background/017-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Wanga",
+    "url": "https://www.comixology.com/Wanga/comics-publisher/573-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/103/logo/103._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/573-0/background/573-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "WEBellipses",
+    "url": "https://www.comixology.com/WEBellipses/comics-publisher/502-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/98/logo/98_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/502-0/background/502-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#bedee0",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Yen Press",
+    "url": "https://www.comixology.com/Yen-Press/comics-publisher/80-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/569/logo/569._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/80-0/background/80-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#8fa447",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Z2 Comics",
+    "url": "https://www.comixology.com/Z2-Comics/comics-publisher/2515-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/225/logo/225_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/2515-0/background/2515-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Zenescope",
+    "url": "https://www.comixology.com/Zenescope/comics-publisher/47-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/12/logo/12._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/47-0/background/47-0._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  },
+  {
+    "name": "Zenith Press",
+    "url": "https://www.comixology.com/Zenith-Press/comics-publisher/1027-0",
+    "logo": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/142/logo/142_tile_img_full._SX312_QL80_TTD_.jpg",
+    "banner": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/CompanyHomepage/1027-0/background/1027-00_bg._UX2200_QL100_TTD_.jpg",
+    "backgroundColor": "#990000",
+    "textColor": "#ffffff",
+    "imprints": [],
+    "bannerSpacing": "0"
+  }
+]

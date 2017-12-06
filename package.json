@@ -1,0 +1,22 @@
+{
+  "engines": {
+    "node": ">= 8"
+  },
+  "name": "ubooquity-comixology-publishers",
+  "version": "0.0.1",
+  "description": "Generate publisher pages for the Ubooquity comixology theme",
+  "main": "index.js",
+  "author": "Chris Legault",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "ejs": "^2.5.7",
+    "image-downloader": "^3.3.0",
+    "x-ray": "^2.3.2"
+  },
+  "scripts": {
+    "generate": "node index.js -ap",
+    "generate-data": "node index.js -a",
+    "generate-pages": "node index.js -p"
+  }
+}
