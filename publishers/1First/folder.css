@@ -3,10 +3,15 @@
   padding-top: 0;
   background-color: #ffffff;
   border: 0;
+  background-image: url(./?folderinfo=/header.jpg);
+  min-height: 650px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+  padding-top: 220px;
 }
 
 #publinks {
-  margin-top: 0;
   float: left;
   font-size: 11px;
   padding-left: 25px;
@@ -80,3 +85,4 @@ a {
   background: linear-gradient(top, #E0E0E0 0%, white 100%);
   filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#ffffff', GradientType=0 )
 }
+
