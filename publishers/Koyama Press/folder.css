@@ -1,0 +1,23 @@
+#group {
+  color: black;
+  padding-top: 0;
+  background-color: #eb332f;
+  border: 0;
+  background-image: url(./?folderinfo=/header.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+  padding-top: 220px;
+}
+
+#publinks {
+  float: left;
+  font-size: 11px;
+  padding-left: 25px;
+}
+
+.label {
+  color: #ffffff;
+}
+
+

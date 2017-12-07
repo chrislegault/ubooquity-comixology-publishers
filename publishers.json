@@ -7,7 +7,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "1First",
@@ -20,7 +20,7 @@
       "1First",
       "Devil's Due Entertainment"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "A Wave Blue World",
@@ -30,7 +30,7 @@
     "backgroundColor": "#0084c5",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "AAM-Markosia",
@@ -40,7 +40,7 @@
     "backgroundColor": "#176271",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "278px"
   },
   {
     "name": "Aardvark-Vanaheim",
@@ -50,7 +50,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Abrams – Abrams ComicArts",
@@ -60,7 +60,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Abrams – Amulet Books",
@@ -70,7 +70,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Abstract Studio",
@@ -80,7 +80,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Aces Weekly",
@@ -90,7 +90,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Action Lab",
@@ -103,7 +103,7 @@
       "Action Lab",
       "Action Lab - Danger Zone"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Action Lab - Danger Zone",
@@ -116,7 +116,7 @@
       "Action Lab",
       "Action Lab - Danger Zone"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Aelement",
@@ -129,7 +129,7 @@
       "Aelement",
       "Comixheroes Universe"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "AfterShock Comics",
@@ -139,7 +139,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Akileos",
@@ -152,7 +152,7 @@
       "Akileos",
       "Akileos English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Akileos English",
@@ -165,7 +165,7 @@
       "Akileos",
       "Akileos English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Akita Publishing Co.,Ltd.",
@@ -183,7 +183,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Albatross",
@@ -193,7 +193,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Alterna Comics",
@@ -206,7 +206,7 @@
       "Alterna Comics",
       "Alterna Comics - FUBAR Press"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Alterna Comics - FUBAR Press",
@@ -219,7 +219,7 @@
       "Alterna Comics",
       "Alterna Comics - FUBAR Press"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Alternative Comics",
@@ -229,7 +229,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Amazon Studios",
@@ -239,7 +239,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#fe961c",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "American Mythology Productions",
@@ -249,7 +249,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Andrews McMeel",
@@ -259,7 +259,7 @@
     "backgroundColor": "#006666",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Ankama",
@@ -272,7 +272,7 @@
       "Ankama",
       "Ankama in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Ankama in English",
@@ -285,7 +285,7 @@
       "Ankama",
       "Ankama in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Antarctic Press",
@@ -295,7 +295,7 @@
     "backgroundColor": "#090a0c",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Ape Entertainment",
@@ -305,7 +305,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "20px"
   },
   {
     "name": "Arcana Comics",
@@ -315,7 +315,7 @@
     "backgroundColor": "#000000",
     "textColor": "#f9e598",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Archie",
@@ -329,7 +329,7 @@
       "Archie - Archie Horror",
       "Archie - Dark Circle Comics"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Archie - Archie Horror",
@@ -343,7 +343,7 @@
       "Archie - Archie Horror",
       "Archie - Dark Circle Comics"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Archie - Dark Circle Comics",
@@ -357,7 +357,7 @@
       "Archie - Archie Horror",
       "Archie - Dark Circle Comics"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Aspen Comics",
@@ -370,7 +370,7 @@
       "Aspen Comics",
       "Big Dog Ink"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Asylum Press",
@@ -380,7 +380,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Avatar",
@@ -393,7 +393,7 @@
       "Avatar",
       "Boundless Comics"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Bamboo",
@@ -403,7 +403,7 @@
     "backgroundColor": "#00a15b",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Beaglee Inc.",
@@ -421,7 +421,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Big Dog Ink",
@@ -434,7 +434,7 @@
       "Aspen Comics",
       "Big Dog Ink"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Black Crown",
@@ -449,7 +449,7 @@
       "IDW",
       "Top Shelf Productions"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Black Mask Studios",
@@ -459,7 +459,7 @@
     "backgroundColor": "#000000",
     "textColor": "#efefef",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Blind Ferret",
@@ -469,7 +469,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Bliss On Tap",
@@ -479,7 +479,7 @@
     "backgroundColor": "#020202",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "BOOM! - Archaia",
@@ -494,7 +494,7 @@
       "BOOM! - KaBOOM!",
       "BOOM! Studios"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "278px"
   },
   {
     "name": "BOOM! - BOOM! Box",
@@ -509,7 +509,7 @@
       "BOOM! - KaBOOM!",
       "BOOM! Studios"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "278px"
   },
   {
     "name": "BOOM! - KaBOOM!",
@@ -524,7 +524,7 @@
       "BOOM! - KaBOOM!",
       "BOOM! Studios"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "278px"
   },
   {
     "name": "BOOM! Studios",
@@ -539,7 +539,7 @@
       "BOOM! - KaBOOM!",
       "BOOM! Studios"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Boundless Comics",
@@ -552,7 +552,7 @@
       "Avatar",
       "Boundless Comics"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Çà et Là",
@@ -562,7 +562,7 @@
     "backgroundColor": "#961f01",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Caliber Comics",
@@ -572,7 +572,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Cartoon Books",
@@ -582,7 +582,7 @@
     "backgroundColor": "#110c26",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "278px"
   },
   {
     "name": "ChapterHouse Comics",
@@ -592,7 +592,7 @@
     "backgroundColor": "#FFFFFF",
     "textColor": "#ed1c24",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "ChiZine Publications",
@@ -602,7 +602,7 @@
     "backgroundColor": "#0a0a08",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Cinebook",
@@ -612,7 +612,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Classics Illustrated",
@@ -622,7 +622,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Com.x",
@@ -632,7 +632,7 @@
     "backgroundColor": "#c10303",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Comixheroes Universe",
@@ -645,7 +645,7 @@
       "Aelement",
       "Comixheroes Universe"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "ComixTribe",
@@ -655,7 +655,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Creative Impulse",
@@ -665,7 +665,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Creator Owned",
@@ -675,7 +675,7 @@
     "backgroundColor": "#d6e1b7",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "260px"
   },
   {
     "name": "Cryptozoic Entertainment",
@@ -685,7 +685,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Darby Pop",
@@ -695,7 +695,7 @@
     "backgroundColor": "#18d9d8",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Dargaud",
@@ -705,7 +705,7 @@
     "backgroundColor": "#3d607c",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Dark Horse",
@@ -715,7 +715,7 @@
     "backgroundColor": "#020307",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "DC",
@@ -729,7 +729,7 @@
       "MAD",
       "Vertigo"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "DC Thomson",
@@ -739,7 +739,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Delcourt",
@@ -754,7 +754,7 @@
       "Soleil",
       "Soleil in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Delcourt in English",
@@ -769,7 +769,7 @@
       "Soleil",
       "Soleil in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Devil's Due Entertainment",
@@ -782,7 +782,7 @@
       "1First",
       "Devil's Due Entertainment"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Digital Webbing",
@@ -792,7 +792,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Disney",
@@ -807,7 +807,7 @@
       "IDW",
       "Top Shelf Productions"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Disney",
@@ -817,7 +817,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "DMP",
@@ -830,7 +830,7 @@
       "DMP",
       "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "264px"
   },
   {
     "name": "Dover",
@@ -840,7 +840,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Drawn and Quarterly",
@@ -850,7 +850,7 @@
     "backgroundColor": "#bbe1ca",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Dupuis",
@@ -860,7 +860,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Dynamite",
@@ -870,7 +870,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Eco Comics",
@@ -880,7 +880,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Editions Brume",
@@ -890,7 +890,7 @@
     "backgroundColor": "#84a094",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Editions Reflexions",
@@ -900,7 +900,7 @@
     "backgroundColor": "#88482f",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Europe Comics",
@@ -910,7 +910,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Evil Twin Comics",
@@ -920,7 +920,7 @@
     "backgroundColor": "#f7c405",
     "textColor": "#7d131b",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Fantagraphics",
@@ -930,7 +930,7 @@
     "backgroundColor": "#881f22",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Galaxie Comics",
@@ -940,7 +940,7 @@
     "backgroundColor": "#4b6570",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "GEN Manga",
@@ -950,7 +950,7 @@
     "backgroundColor": "#a472b1",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "GG Studio",
@@ -960,7 +960,7 @@
     "backgroundColor": "#333333",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Glénat",
@@ -974,7 +974,7 @@
       "Glénat in English",
       "Vents d'Ouest"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Glénat in English",
@@ -988,7 +988,7 @@
       "Glénat in English",
       "Vents d'Ouest"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Graphic India",
@@ -998,7 +998,7 @@
     "backgroundColor": "#4d4d4d",
     "textColor": "#dfdfdf",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "GT Labs",
@@ -1008,7 +1008,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Harlequin Comics en Français",
@@ -1021,7 +1021,7 @@
       "Harlequin Comics en Français",
       "Harlequin/ SB Creative Corp."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "20px"
   },
   {
     "name": "Harlequin/ SB Creative Corp.",
@@ -1034,7 +1034,7 @@
       "Harlequin Comics en Français",
       "Harlequin/ SB Creative Corp."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "HarperCollins",
@@ -1044,7 +1044,7 @@
     "backgroundColor": "#FFFFFF",
     "textColor": "#007cc2",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Harvey Kurtzman's Marley's Ghost",
@@ -1054,7 +1054,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Heavy Metal",
@@ -1064,7 +1064,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Hermes Press",
@@ -1074,7 +1074,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Heroic Publishing",
@@ -1084,7 +1084,7 @@
     "backgroundColor": "#84b0d2",
     "textColor": "#25365b",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Hexagon Comics",
@@ -1094,7 +1094,7 @@
     "backgroundColor": "#6b3632",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Houghton Mifflin Harcourt",
@@ -1104,7 +1104,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Humanoids",
@@ -1117,7 +1117,7 @@
       "Humanoids",
       "Les Humanoïdes Associés"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "I CAN FLY",
@@ -1127,7 +1127,7 @@
     "backgroundColor": "#70d0fa",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Icon",
@@ -1137,7 +1137,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "260px"
   },
   {
     "name": "IDW",
@@ -1152,7 +1152,7 @@
       "IDW",
       "Top Shelf Productions"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Image",
@@ -1169,7 +1169,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "276px"
   },
   {
     "name": "Image - Shadowline",
@@ -1186,7 +1186,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "236px"
   },
   {
     "name": "Image - Silverline",
@@ -1203,7 +1203,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Image - Skybound",
@@ -1220,7 +1220,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Image - Todd McFarlane Productions",
@@ -1237,7 +1237,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Image - Top Cow",
@@ -1254,7 +1254,7 @@
       "Image - Todd McFarlane Productions",
       "Image - Top Cow"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Indeez",
@@ -1264,7 +1264,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Ishimori",
@@ -1274,7 +1274,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Jet City",
@@ -1284,7 +1284,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Jitsugyo no Nihon Sha, Ltd.",
@@ -1302,7 +1302,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Joe Books",
@@ -1312,7 +1312,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#07549c",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Kana",
@@ -1322,7 +1322,7 @@
     "backgroundColor": "#fefb7a",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kazé",
@@ -1332,7 +1332,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "keenspot",
@@ -1342,7 +1342,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Kickstart",
@@ -1352,7 +1352,7 @@
     "backgroundColor": "#c13329",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kid Beowulf",
@@ -1362,7 +1362,7 @@
     "backgroundColor": "#f9ee30",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kids Can Press",
@@ -1372,7 +1372,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kingstone Comics",
@@ -1382,7 +1382,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kodansha",
@@ -1392,7 +1392,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Kotoji Editions",
@@ -1402,7 +1402,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Koyama Press",
@@ -1412,7 +1412,7 @@
     "backgroundColor": "#eb332f",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "La Découverte",
@@ -1422,7 +1422,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Le Lombard",
@@ -1432,7 +1432,7 @@
     "backgroundColor": "#0b0205",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Legendary",
@@ -1442,7 +1442,7 @@
     "backgroundColor": "#15160e",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Les Humanoïdes Associés",
@@ -1455,7 +1455,7 @@
       "Humanoids",
       "Les Humanoïdes Associés"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Lion Forge Comics",
@@ -1468,7 +1468,7 @@
       "Lion Forge Comics",
       "MAGNETIC COLLECTION (at Lion Forge)"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Liquid Comics",
@@ -1478,7 +1478,7 @@
     "backgroundColor": "#0291d5",
     "textColor": "#fbfaf8",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Los Brignolès",
@@ -1488,7 +1488,7 @@
     "backgroundColor": "#9b9b9b",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Love Pop",
@@ -1506,7 +1506,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "MAD",
@@ -1520,7 +1520,7 @@
       "MAD",
       "Vertigo"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "MAGNETIC COLLECTION (at Lion Forge)",
@@ -1533,7 +1533,7 @@
       "Lion Forge Comics",
       "MAGNETIC COLLECTION (at Lion Forge)"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Makma",
@@ -1543,7 +1543,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Marvel",
@@ -1559,7 +1559,7 @@
       "Marvel France",
       "Marvel Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Marvel - comiXology Originals",
@@ -1575,7 +1575,7 @@
       "Marvel France",
       "Marvel Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Marvel Deutschland",
@@ -1591,7 +1591,7 @@
       "Marvel France",
       "Marvel Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Marvel France",
@@ -1607,7 +1607,7 @@
       "Marvel France",
       "Marvel Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Marvel Italia",
@@ -1623,7 +1623,7 @@
       "Marvel France",
       "Marvel Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "MAX",
@@ -1638,7 +1638,7 @@
       "MAX France",
       "MAX Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "MAX Deutschland",
@@ -1653,7 +1653,7 @@
       "MAX France",
       "MAX Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "MAX France",
@@ -1668,7 +1668,7 @@
       "MAX France",
       "MAX Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "MAX Italia",
@@ -1683,7 +1683,7 @@
       "MAX France",
       "MAX Italia"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Media Do",
@@ -1701,7 +1701,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "minato-pro,Mz-plan",
@@ -1719,7 +1719,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Monkeybrain",
@@ -1729,7 +1729,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Monsterverse",
@@ -1739,7 +1739,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Moonstone",
@@ -1749,7 +1749,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Mutation Narrative",
@@ -1759,7 +1759,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "270px"
   },
   {
     "name": "NBM",
@@ -1769,7 +1769,7 @@
     "backgroundColor": "#cbd1cf",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "NIHONBUNGEISHA Co.,Ltd.",
@@ -1787,7 +1787,7 @@
       "minato-pro,Mz-plan",
       "NIHONBUNGEISHA Co.,Ltd."
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Oni Press",
@@ -1797,7 +1797,7 @@
     "backgroundColor": "#e21a22",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "260px"
   },
   {
     "name": "Panini Comics Deutschland",
@@ -1810,7 +1810,7 @@
       "Panini Comics Deutschland",
       "Panini Comics France"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Panini Comics France",
@@ -1823,7 +1823,7 @@
       "Panini Comics Deutschland",
       "Panini Comics France"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Paper Films",
@@ -1833,7 +1833,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Papercutz",
@@ -1843,7 +1843,7 @@
     "backgroundColor": "#068748",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka",
@@ -1856,7 +1856,7 @@
       "DMP",
       "Platinum Manga By DMP – Classic Manga Works by Osamu Tezuka"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "R-Comics",
@@ -1866,7 +1866,7 @@
     "backgroundColor": "#122454",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Radical Comics",
@@ -1876,7 +1876,7 @@
     "backgroundColor": "#203130",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Rainbow",
@@ -1886,7 +1886,7 @@
     "backgroundColor": "#d692b8",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Raw Studios",
@@ -1896,7 +1896,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Red 5",
@@ -1906,7 +1906,7 @@
     "backgroundColor": "#5d5d5d",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Rue de Sèvres",
@@ -1916,7 +1916,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Sandawe",
@@ -1926,7 +1926,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Scholastic - Graphix",
@@ -1939,7 +1939,7 @@
       "Scholastic - Graphix",
       "The Phoenix"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Seven Seas",
@@ -1949,7 +1949,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "SLG",
@@ -1959,7 +1959,7 @@
     "backgroundColor": "#82a582",
     "textColor": "#123312",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Small Press",
@@ -1969,7 +1969,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "260px"
   },
   {
     "name": "Soleil",
@@ -1984,7 +1984,7 @@
       "Soleil",
       "Soleil in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Soleil in English",
@@ -1999,7 +1999,7 @@
       "Soleil",
       "Soleil in English"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Space Goat Productions",
@@ -2009,7 +2009,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "290px"
   },
   {
     "name": "Spunch Comics",
@@ -2019,7 +2019,7 @@
     "backgroundColor": "#ffcc33",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Studio 407",
@@ -2029,7 +2029,7 @@
     "backgroundColor": "#a1181f",
     "textColor": "#cececf",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Studio Lounak",
@@ -2039,7 +2039,7 @@
     "backgroundColor": "#080808",
     "textColor": "#dcdcdc",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Teshkeel",
@@ -2049,7 +2049,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Th3rd World Studios",
@@ -2059,7 +2059,7 @@
     "backgroundColor": "#092344",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "The Phoenix",
@@ -2072,7 +2072,7 @@
       "Scholastic - Graphix",
       "The Phoenix"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Thrillbent",
@@ -2082,7 +2082,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "TidalWave Productions",
@@ -2092,7 +2092,7 @@
     "backgroundColor": "#626dab",
     "textColor": "#23376c",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Titan",
@@ -2102,7 +2102,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "TOKYOPOP",
@@ -2112,7 +2112,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#b31d0e",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "284px"
   },
   {
     "name": "Top Shelf Productions",
@@ -2127,7 +2127,7 @@
       "IDW",
       "Top Shelf Productions"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Udon",
@@ -2137,7 +2137,7 @@
     "backgroundColor": "#ffffff",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Valiant",
@@ -2151,7 +2151,7 @@
       "Valiant Classic",
       "Valiant Digital Firsts"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Valiant Classic",
@@ -2165,7 +2165,7 @@
       "Valiant Classic",
       "Valiant Digital Firsts"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Valiant Digital Firsts",
@@ -2179,7 +2179,7 @@
       "Valiant Classic",
       "Valiant Digital Firsts"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Valve",
@@ -2189,7 +2189,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Vault Comics",
@@ -2199,7 +2199,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Vents d'Ouest",
@@ -2213,7 +2213,7 @@
       "Glénat in English",
       "Vents d'Ouest"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Vertigo",
@@ -2227,7 +2227,7 @@
       "MAD",
       "Vertigo"
     ],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Viper Comics",
@@ -2237,7 +2237,7 @@
     "backgroundColor": "#333333",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "300px"
   },
   {
     "name": "Virtual Graphics",
@@ -2247,7 +2247,7 @@
     "backgroundColor": "#8c93d7",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Viz",
@@ -2257,7 +2257,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Wanga",
@@ -2267,7 +2267,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "275px"
   },
   {
     "name": "WEBellipses",
@@ -2277,7 +2277,7 @@
     "backgroundColor": "#bedee0",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Yen Press",
@@ -2287,7 +2287,7 @@
     "backgroundColor": "#000000",
     "textColor": "#8fa447",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Z2 Comics",
@@ -2297,7 +2297,7 @@
     "backgroundColor": "#FFFFFF",
     "textColor": "#000000",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Zenescope",
@@ -2307,7 +2307,7 @@
     "backgroundColor": "#000000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   },
   {
     "name": "Zenith Press",
@@ -2317,6 +2317,6 @@
     "backgroundColor": "#990000",
     "textColor": "#ffffff",
     "imprints": [],
-    "bannerSpacing": "0"
+    "bannerSpacing": "220px"
   }
 ]
