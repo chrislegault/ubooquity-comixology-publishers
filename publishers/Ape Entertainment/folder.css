@@ -1,0 +1,19 @@
+#group {
+  color: black;
+  padding-top: 0;
+  background-color: #000000;
+  border: 0;
+  padding-top: 20px;
+}
+
+#publinks {
+  float: left;
+  font-size: 11px;
+  padding-left: 25px;
+}
+
+.label {
+  color: #ffffff;
+}
+
+
