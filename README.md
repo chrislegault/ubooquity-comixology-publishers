@@ -47,4 +47,4 @@ yarn generate --importers=importer1,importer2
 - backgroundColor - color that shows behind issues
 - textColor - color for issue names
 - imprints - list of publishers to be used as imprints
-- bannerSpacing - On comixology sometimes they pull content closer to the banner depending on what the banner looks like. This is here to help replicate that on a manual basis if need be. 0 is normal positioning. A negative number will pull the content closer to the banner. A positive number would push the content further from the banner.
+- bannerSpacing - On comixology sometimes content is closer to the banner depending on what the banner looks like. This is here to replicate that.
